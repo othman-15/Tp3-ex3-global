@@ -1,0 +1,6 @@
+[submodule "filiere-microservice"]
+	path = filiere-microservice
+	url = https://github.com/othman-15/tp1-ex3-filiere-microservice
+[submodule "Tp1-Ex3-Dcc26"]
+	path = Tp1-Ex3-Dcc26
+	url = https://github.com/othman-15/Tp1-ex3-microservice
